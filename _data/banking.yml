@@ -62,3 +62,12 @@ websites:
       software: Yes
       doc: http://www.chibabank.co.jp/myaccess/security/internet/otp/
       lang: ja
+
+    - name: 西日本シティ銀行
+      url: http://www.ncbank.co.jp/
+      img: .png
+      tfa: Yes
+      hardware: Yes
+      software: Yes
+      doc: http://www.ncbank.co.jp/benri/direct/otp/
+      lang: ja
