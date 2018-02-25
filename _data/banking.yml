@@ -44,3 +44,12 @@ websites:
       software: Yes
       doc: http://www.resonabank.co.jp/direct/otp/index.html
       lang: ja
+
+    - name: 北洋銀行
+      url: http://www.hokuyobank.co.jp/
+      img: .png
+      tfa: Yes
+      hardware: Yes
+      software: Yes
+      doc: http://www.hokuyobank.co.jp/bdirect/otp/
+      lang: ja
