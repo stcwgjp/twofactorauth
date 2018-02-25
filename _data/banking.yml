@@ -71,3 +71,12 @@ websites:
       software: Yes
       doc: http://www.ncbank.co.jp/benri/direct/otp/
       lang: ja
+
+    - name: 福岡銀行
+      url: http://www.fukuokabank.co.jp/
+      img: .png
+      tfa: Yes
+      hardware: Yes
+      software: Yes
+      doc: http://www.fukuokabank.co.jp/personal/service/directbanking/security/onetime/
+      lang: ja
