@@ -35,3 +35,12 @@ websites:
       software: Yes
       doc: http://www.smbc.co.jp/kojin/direct/securi/otp/
       lang: ja
+
+    - name: りそな銀行
+      url: http://www.resonabank.co.jp/
+      img: .png
+      tfa: Yes
+      hardware: Yes
+      software: Yes
+      doc: http://www.resonabank.co.jp/direct/otp/index.html
+      lang: ja
