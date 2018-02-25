@@ -53,3 +53,12 @@ websites:
       software: Yes
       doc: http://www.hokuyobank.co.jp/bdirect/otp/
       lang: ja
+
+    - name: 千葉銀行
+      url: http://www.chibabank.co.jp/
+      img: .png
+      tfa: Yes
+      hardware: Yes
+      software: Yes
+      doc: http://www.chibabank.co.jp/myaccess/security/internet/otp/
+      lang: ja
