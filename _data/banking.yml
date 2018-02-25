@@ -1,9 +1,37 @@
 websites:
-    - name: The Bank of Tokyo-Mitsubishi UFJ, Ltd. - DIRECT
+    - name: 三菱東京UFJ銀行 - DIRECT
       url: https://entry11.bk.mufg.jp/ibg/dfw/APLIN/loginib/login?_TRANID=AA000_001
       img: .png
       tfa: Yes
       hardware: Yes
       software: Yes
       doc: http://direct.bk.mufg.jp/secure/otp/info.html
+      lang: ja
+
+    - name: 三菱東京UFJ銀行 - BizSTATION
+      url: https://bizstation.bk.mufg.jp/index.html?link_id=p_top_uti_biz
+      img: .png
+      tfa: Yes
+      hardware: Yes
+      software: Yes
+      doc: http://direct.bk.mufg.jp/secure/otp/info.html
+      lang: ja
+
+    - name: みずほ銀行
+      url: https://www.mizuhobank.co.jp/
+      img: .png
+      tfa: Yes
+      email: Yes
+      hardware: Yes
+      software: Yes
+      doc: https://www.mizuhobank.co.jp/direct/help/security/onetime.html
+      lang: ja
+
+    - name: 三井住友銀行
+      url: http://www.smbc.co.jp/
+      img: .png
+      tfa: Yes
+      hardware: Yes
+      software: Yes
+      doc: http://www.smbc.co.jp/kojin/direct/securi/otp/
       lang: ja
