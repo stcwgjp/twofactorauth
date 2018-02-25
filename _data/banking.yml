@@ -80,3 +80,12 @@ websites:
       software: Yes
       doc: http://www.fukuokabank.co.jp/personal/service/directbanking/security/onetime/
       lang: ja
+
+    - name: 埼玉りそな銀行
+      url: http://www.saitamaresona.co.jp/
+      img: .png
+      tfa: Yes
+      hardware: Yes
+      software: Yes
+      doc: http://www.saitamaresona.co.jp/direct/otp/
+      lang: ja
